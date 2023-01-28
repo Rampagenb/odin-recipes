@@ -1,0 +1,12 @@
+p {
+    background-color:rgb(136, 226, 221)
+}
+
+ul {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+ol{ 
+    font-style: italic;
+}
